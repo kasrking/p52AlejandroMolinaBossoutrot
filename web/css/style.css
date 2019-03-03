@@ -1,5 +1,11 @@
 
 
+body{
+    background-color:lightgrey;
+}
+
 form{
-    background-color:lightblue;
+  background-color:lightpink; 
+  padding:2rem;
+  width:300px;
 }
